@@ -5,6 +5,7 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
+# cg test Actions 2021/06/30
 name: OpenWrt-CI
 
 on:
